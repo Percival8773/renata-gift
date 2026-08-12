@@ -1,0 +1,345 @@
+﻿{
+    "novia":  {
+                  "nombre":  "Ren",
+                  "nombreCompleto":  "Renata Antonella Paredez",
+                  "apodo":  "Mi amor",
+                  "edad":  15
+              },
+    "remitente":  "Jorge",
+    "unlockAt":  "2026-08-14T00:00:00-03:00",
+    "adminKey":  "renata-15-jorge",
+    "capas":  {
+                  "bienvenida":  {
+                                     "titulo":  "Para ti",
+                                     "texto":  "Dicen que los regalos más hermosos no se envuelven. Pero Esta caja viajó toda la distancia que nos separa para que la abras tú, hoy. Toca la caja para empezar :3."
+                                 },
+                  "velas":  {
+                                "titulo":  "Sopla tus 15 velas, Mi amor",
+                                "instruccion":  "Toca cada vela para apagarla, pon atencion cada que apagues una, ya que hay algo especial detras de ellas",
+                                "razones":  [
+                                                "Cada día que estoy contigo solamente me hace amarte aún más",
+                                                "No importa cuánto crezca o hacia dónde vaya, mi lugar favorito siempre va a ser a tu lado",
+                                                "Eres mi lugar seguro, la persona a la que siempre quiero volver al final del día.",
+                                                "Me encanta quien soy cuanto estoy a tu lado mi amor.",
+                                                "No solo me gustas, me haces bien, me inspiras y en especial, me ayudas a mejorar.",
+                                                "Gracias por compartir tu tiempo, tu espacio y tus días conmigo, no hay nada que me guste más.",
+                                                "Tienes una forma tan bonita de iluminar todo lo que te rodea sin siquiera darte cuenta.",
+                                                "Verte sonreír sigue siendo, lo que más me gusta en todo mi día.",
+                                                "Contigo aprendí que el amor real no son solo palabras, son sentimientos, son acciónes, son verdades y en especial, eres tu, y si te soy sincero solo a ti te quiero amar para siempre.",
+                                                "Me encanta la persona en la que te estás convirtiendo y me llena de orgullo verte crecer, quiero estar en cada etapa tuya.",
+                                                "Si me dieran a elegir de nuevo entre un millón de vidas, en todas y cada una te buscaría a ti, mi cielo.",
+                                                "No hay otra coincidencia más hermosa en mi vida el poder haberte conocido.",
+                                                "Gracias por ser mi compañera para todo, mi mejor amiga y el amor de mi vida, todo en una sola persona, Te amo.",
+                                                "Eres la niña más hermosa del mundo, jamás lo olvides cariño, para mi siempre lo vas a ser y si no me crees, entonces preguntale a mis ojos.",
+                                                "TE AMOOO."
+                                            ]
+                            },
+                  "audio":  {
+                                "archivo":  "content/media/audio/mensaje.ogg",
+                                "titulo":  "Un audio grabado solo para ti",
+                                "texto":  "Ponle play. No es un detalle tan especiales solo mi voz diciéndote lo que la distancia me hace callar."
+                            },
+                  "recuerdos":  {
+                                    "titulo":  "Nuestros Recuerdos",
+                                    "texto":  "La distancia no puede tocarlos. Son nuestros, para siempre.",
+                                    "fotos":  [
+                                                  {
+                                                      "src":  "content/media/fotos/foto-8.jpg",
+                                                      "leyenda":  "Recuerdo 8"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-30.jpg",
+                                                      "leyenda":  "Recuerdo 30"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-24.jpg",
+                                                      "leyenda":  "Recuerdo 24"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-17.jpg",
+                                                      "leyenda":  "Recuerdo 17"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-7.jpg",
+                                                      "leyenda":  "Recuerdo 7"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-5.jpg",
+                                                      "leyenda":  "Recuerdo 5"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-15.jpg",
+                                                      "leyenda":  "Recuerdo 15"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-33.jpg",
+                                                      "leyenda":  "Recuerdo 33"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-25.jpg",
+                                                      "leyenda":  "Recuerdo 25"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-26.jpg",
+                                                      "leyenda":  "Recuerdo 26"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-32.jpg",
+                                                      "leyenda":  "Recuerdo 32"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-18.jpg",
+                                                      "leyenda":  "Recuerdo 18"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-11.jpg",
+                                                      "leyenda":  "Recuerdo 11"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-21.jpg",
+                                                      "leyenda":  "Recuerdo 21"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-1.jpg",
+                                                      "leyenda":  "Recuerdo 1"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-2.jpg",
+                                                      "leyenda":  "Recuerdo 2"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-34.jpg",
+                                                      "leyenda":  "Recuerdo 34"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-20.jpg",
+                                                      "leyenda":  "Recuerdo 20"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-13.jpg",
+                                                      "leyenda":  "Recuerdo 13"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-10.jpg",
+                                                      "leyenda":  "Recuerdo 10"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-9.jpg",
+                                                      "leyenda":  "Recuerdo 9"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-6.jpg",
+                                                      "leyenda":  "Recuerdo 6"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-27.jpg",
+                                                      "leyenda":  "Recuerdo 27"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-31.jpg",
+                                                      "leyenda":  "Recuerdo 31"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-14.jpg",
+                                                      "leyenda":  "Recuerdo 14"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-22.jpg",
+                                                      "leyenda":  "Recuerdo 22"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-3.jpg",
+                                                      "leyenda":  "Recuerdo 3"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-19.jpg",
+                                                      "leyenda":  "Recuerdo 19"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-16.jpg",
+                                                      "leyenda":  "Recuerdo 16"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-29.jpg",
+                                                      "leyenda":  "Recuerdo 29"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-4.jpg",
+                                                      "leyenda":  "Recuerdo 4"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-23.jpg",
+                                                      "leyenda":  "Recuerdo 23"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-12.jpg",
+                                                      "leyenda":  "Recuerdo 12"
+                                                  },
+                                                  {
+                                                      "src":  "content/media/fotos/foto-28.jpg",
+                                                      "leyenda":  "Recuerdo 28"
+                                                  }
+                                              ]
+                                },
+                  "carta":  {
+                                "titulo":  "Mi carta para ti",
+                                "parrafos":  [
+                                                 "Querida Ren:",
+                                                 "Quince veces ha girado el sol a tu alrededor, y con cada vuelta has crecido un poco más. No solo en años, sino en todo aquello que te hace ser quien eres: tu forma de reír, de mirar el mundo y de convertirte, poco a poco, en una persona extraordinaria.",
+                                                 "Ren. Un nombre tan breve para alguien que significa tanto. Hay nombres que simplemente se dicen, y otros que se quedan viviendo en la memoria. El tuyo es de esos que aparecen en mis pensamientos sin esfuerzo y que siempre logran sacarme una sonrisa.",
+                                                 "Hoy no celebro únicamente el día en que naciste. Celebro cada momento que te ha traído hasta aquí: las alegrías, los aprendizajes, los pequeños detalles que han ido formando a la persona que eres hoy.",
+                                                 "Tienes quince años y ya posees cualidades que muchos tardan toda una vida en encontrar. Sabes que la ternura no es una debilidad y que querer de verdad requiere valentía. Y aunque quizá no siempre lo veas, hay una fortaleza muy bonita en la manera en que afrontas las cosas.",
+                                                 "Cuando pienso en tu futuro, imagino a alguien que seguirá creciendo de formas que todavía ni sospecha. Alguien que descubrirá caminos nuevos, que vivirá experiencias inolvidables y que dejará una huella especial en las personas que tenga cerca.",
+                                                 "Me gustaría poder darte un regalo a la altura de lo que significas, pero las cosas más valiosas rara vez caben en una caja. Por eso te entrego estas palabras, sencillas y sinceras, porque son lo mejor que puedo ofrecerte cuando pienso en ti.",
+                                                 "Deseo que estos quince años sean solo el comienzo de una etapa llena de momentos felices, oportunidades y sueños cumplidos. Que la vida te reciba siempre con la misma luz que tú aportas a quienes te rodean.",
+                                                 "Y también espero que, cuando lleguen los próximos cumpleaños, siga teniendo la suerte de estar cerca para celebrarlos contigo. Porque conocerte ha sido una de esas cosas bonitas que aparecen sin avisar y terminan convirtiéndose en algo muy especial."
+                                             ],
+                                "despedida":  "Feliz cumpleaños, Ren. Ojalá este día esté lleno de todo aquello que te hace feliz y te recuerde lo mucho que vales.",
+                                "firma":  "Con cariño, Jorge"
+                            },
+                  "globos":  {
+                                 "titulo":  "Globos de deseos",
+                                 "texto":  "Cada globo guarda un deseo. Tócalo para soltarlo al cielo.",
+                                 "deseos":  [
+                                                "Que todos tus días sean tan brillantes como tu sonrisa, y que la alegría siempre este contigo.",
+                                                "Que te ames tan profundamente como yo te amo, y que cada día descubras algo nuevo para amar de ti, así como yo lo hago a diario.",
+                                                "Que la paz siempre te encuentre en los momentos en los que más necesites, y que tengas paz siempre para disfrutar de lo hermoso que es la vida.",
+                                                "Que tengas mucha alegría en todo lo que hagas, que tu corazón siempre pueda estar lleno, con ganas de vivir y soñar.",
+                                                "Que todo lo bueno de tu vida nunca se acabe, que sigas viendo el mundo con los ojos llenos de esperanza y amor.",
+                                                "Que encuentres calma y amor en cualquier cosa que hagas y que sepas que siempre hay un lugar seguro esperándote, conmigo."
+                                            ]
+                             },
+                  "sobres":  {
+                                 "titulo":  "Sobres para cuando…",
+                                 "texto":  "Ábrelos cuando llegue el momento. Cada sobre es un pedazo de mí que se queda contigo.",
+                                 "sobres":  [
+                                                {
+                                                    "cuando":  "Cuando estés triste",
+                                                    "mensaje":  "Mi amor, sé que hay días en los que todo parece más difícil, cuando el cielo se llena de nubes y el peso de las cosas se siente más grande de lo normal. Si alguna vez te encuentras en uno de esos momentos, quiero que recuerdes algo: no tienes que atravesarla sola.\n\nEstoy aquí para ti, en los días buenos y en los malos, en las conversaciones interminables y en los silencios que no necesitan explicación. No hace falta que ocultes tus lágrimas ni que finjas estar bien para que te quiera. Nunca.\n\nTu tristeza no te hace menos especial. Al contrario, es parte de ti, de todo lo que sientes, de todo lo que eres. Y yo quiero acompañarte también en esos momentos, sostener tu mano cuando las cosas pesen demasiado y recordarte que no tienes que cargar con todo por tu cuenta.\n\nA veces la lluvia llega sin avisar, pero incluso los días grises terminan pasando. Mientras tanto, si el mundo se vuelve un poco más oscuro, deja que me siente a tu lado. No para arreglarlo todo, sino para hacerte compañía mientras vuelve la luz.\n\nTe amo en cada una de tus versiones: cuando sonríes, cuando dudas, cuando estás cansada y cuando necesitas descansar del mundo. Te amo siempre, incluso en los días en que a ti te cuesta hacerlo.\n\nCon todo mi cariño."
+                                                },
+                                                {
+                                                    "cuando":  "Cuando estés lejos",
+                                                    "mensaje":  "Mi vida... Antes de cualquier cosa, quiero que recuerdes algo: nosotros nacimos en la distancia. Nos conocimos así, separados por kilómetros, pantallas y horarios distintos, y aun así encontramos la forma de llegar el uno al otro. Lo nuestro empezó lejos, pero nunca se sintió distante. Por eso, cuando la separación pese un poco más de lo normal, quiero que recuerdes que ya hemos sabido querernos desde lejos antes.\n\nNo importa cuántos kilómetros nos separen ni cuántas noches pasen sin poder verte. Hay algo que la distancia nunca podrá cambiar: lo mucho que significas para mí.\n\nCuando me eches de menos, mira al cielo. Quizá suene simple, pero aunque estemos lejos, seguimos bajo el mismo cielo. En algún lugar, al mismo tiempo que tú lo observas, yo también puedo estar mirando, y eso me hace sentir un poco más cerca de ti.\n\nLa distancia solo cambia los lugares, no lo que sentimos. Puede impedir un abrazo, una mirada o tomarnos de la mano, pero no puede llevarse todo lo que compartimos ni todo lo que llevo de ti conmigo, porque evidentemente habrá días en los que la ausencia pese más de lo normal, y está bien sentirlo. Yo también te echaré de menos. Pero quiero que recuerdes que cada día que pasa es un día menos para encontrarnos.\n\nMientras tanto, sigue cuidándote, sigue sonriendo y sigue guardando un espacio para mí en tus pensamientos, porque yo llevo uno para ti en cada momento de los míos y en cada latido que me recuerda lo afortunado que soy por tenerte en mi vida.\n\nTe amo, aquí, allí y en cualquier distancia.\n\nCon todo mi amor."
+                                                },
+                                                {
+                                                    "cuando":  "Cuando dudes de ti",
+                                                    "mensaje":  "Mi cielo, habrá días en los que no te sientas suficiente, mirarás tus errores más que tus logros y en las inseguridades hablarán más fuerte que todo lo bueno que hay en ti. Cuando eso pase, quiero que leas esto: Yo te veo.\n\nVeo tu fortaleza en las veces que sigues adelante incluso cuando estás cansada. Veo tu valentía en cada miedo que enfrentas sin que nadie se dé cuenta. Veo la bondad que entregas a los demás, incluso cuando tú misma necesitas un poco de ella.\n\nY por eso, cuando tú dudes de quién eres, recuerda que yo no lo hago.\n\nSé que a veces te cuesta reconocer todo lo que vales, pero eso no cambia la realidad, sigues siendo la misma persona inteligente, fuerte y maravillosa que he amado desde el primer día.\n\nSi alguna vez olvidas lo capaz que eres, vuelve a estas palabras. Déjame prestarte mis ojos por un momento y mírate como yo te veo: una persona con una luz enorme, con un corazón bonito y con mucho más valor del que imagina.\n\nAsí que levanta la cabeza, respira hondo y sigue adelante, porque has superado más cosas de las que te reconoces y porque todavía eres capaz de lograr mucho más de lo que crees.\n\nY si alguna vez vuelves a dudar, aquí estará mi voz para recordarte algo muy simple: Eres mucho más fuerte, más valiente y más extraordinaria de lo que piensas.\n\nCon todo mi cariño."
+                                                },
+                                                {
+                                                    "cuando":  "Cuando estés orgullosa de ti",
+                                                    "mensaje":  "Cariño, si te soy sincero, esta carta es una excusa para decirte lo orgulloso que estoy de ti.\n\nSi estás leyendo esto, probablemente acabas de conseguir algo que te hizo feliz. sea lo que sea, quiero que te detengas un momento y te permitas sentir orgullo por ello.\n\nA veces eres tan exigente contigo misma que pasas por alto todo lo que has logrado... Siempre estás pensando en el siguiente paso, en lo que falta por hacer o en cómo podrías haberlo hecho mejor. Por eso escribo esta carta: para recordarte que también mereces celebrar lo lejos que has llegado.\n\nEstoy muy orgulloso de ti.\n\nNo solo por tus logros, sino por todo lo que hubo detrás de ellos, el esfuerzo que nadie veía, las veces que quisiste rendirte y aun así seguiste adelante... Cada éxito tuyo me hace sonreír porque sé cuánto te ha costado alcanzarlo. Y aunque el mérito es completamente tuyo, no puedo evitar sentir una felicidad inmensa al verte conseguir aquello por lo que luchaste.\n\nAsí que hoy quiero que levantes la cabeza y disfrutes este momento. Te lo has ganado. Y si alguna vez te sorprendes pensando que fue suerte, que no fue para tanto o que cualquiera podría haberlo hecho, quiero que recuerdes algo: no. Lo lograste tú. Con tu esfuerzo, tu constancia y tu corazón.\n\nOjalá pudiera estar ahí para abrazarte, levantarte del suelo dando vueltas y decirte exactamente lo que llevo pensando desde hace mucho tiempo: \"Lo sabía.\"\n\nSabía que eras capaz y que lo conseguirías.\n\nY seguiré creyendo en ti incluso antes de que tú misma lo hagas.\n\nCon todo mi cariño."
+                                                }
+                                            ]
+                             },
+                  "playlist":  {
+                                   "titulo":  "La banda sonora de nosotros",
+                                   "texto":  "Canciones que suenan o me recuerdan a ti. Dale play y escucha JSJSJSS.",
+                                   "canciones":  [
+                                                     {
+                                                         "titulo":  "More Than You Know",
+                                                         "artista":  "Axwell \u0026 Ingrosso",
+                                                         "archivo":  "content/media/musica/more-than-you-know-axwell-ingrosso.mp3",
+                                                         "portada":  "content/media/musica/more-than-you-know-axwell-ingrosso.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "Sin Medias Tintas",
+                                                         "artista":  "Aurozyz",
+                                                         "archivo":  "content/media/musica/sin-medias-tintas-aurozyz.mp3",
+                                                         "portada":  "content/media/musica/sin-medias-tintas-aurozyz.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "505",
+                                                         "artista":  "Arctic Monkeys",
+                                                         "archivo":  "content/media/musica/505-arctic-monkeys.mp3",
+                                                         "portada":  "content/media/musica/505-arctic-monkeys.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "Hey Lover",
+                                                         "artista":  "The Daughters of Eve",
+                                                         "archivo":  "content/media/musica/hey-lover.mp3",
+                                                         "portada":  "content/media/musica/hey-lover.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "Secrets",
+                                                         "artista":  "OneRepublic",
+                                                         "archivo":  "content/media/musica/secrets-one-republic.mp3",
+                                                         "portada":  "content/media/musica/secrets-one-republic.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "Disco",
+                                                         "artista":  "Surf Curse",
+                                                         "archivo":  "content/media/musica/surf-curse-disco.mp3",
+                                                         "portada":  "content/media/musica/surf-curse-disco.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "Nada Valgo Sin Tu Amor",
+                                                         "artista":  "Juanes",
+                                                         "archivo":  "content/media/musica/nada-valgo-sin-tu-amor.mp3",
+                                                         "portada":  "content/media/musica/nada-valgo-sin-tu-amor.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "I Was Made For Lovin\u0027 You",
+                                                         "artista":  "Kiss",
+                                                         "archivo":  "content/media/musica/i-was-made-for-lovin-you.mp3",
+                                                         "portada":  "content/media/musica/i-was-made-for-lovin-you.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "Out Of My League",
+                                                         "artista":  "Fitz and The Tantrums",
+                                                         "archivo":  "content/media/musica/out-of-my-league.mp3",
+                                                         "portada":  "content/media/musica/out-of-my-league.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "Amor Completo",
+                                                         "artista":  "Mon Laferte",
+                                                         "archivo":  "content/media/musica/amor-completo-mon-laferte.mp3",
+                                                         "portada":  "content/media/musica/amor-completo-mon-laferte.jpg"
+                                                     },
+                                                     {
+                                                         "titulo":  "KARMA",
+                                                         "artista":  "VIVINOS (ALNST)",
+                                                         "archivo":  "content/media/musica/karma-vivinos-alnst.mp3",
+                                                         "portada":  "content/media/musica/karma-vivinos-alnst.webp"
+                                                     },
+                                                     {
+                                                         "titulo":  "Ruler of My Heart",
+                                                         "artista":  "VIVINOS (ALNST)",
+                                                         "archivo":  "content/media/musica/ruler-of-my-heart-vivinos-alnst.mp3",
+                                                         "portada":  "content/media/musica/ruler-of-my-heart-vivinos-alnst.jpg"
+                                                     }
+                                                 ]
+                               },
+                  "constelacion":  {
+                                       "titulo":  "Una constelación echa para ti",
+                                       "texto":  "Dicen que las constelaciones son mapas del cielo. Esta guarda la forma de mi corazón, siempre brillando, solo para ti.",
+                                       "nombre":  "Ren",
+                                       "frase":  "No importa qué tan lejos estés corazón, siempre hay una constelación con forma de mi corazón, que siempre brillara por ti."
+                                   },
+                  "secreto":  {
+                                  "titulo":  "Secreto",
+                                  "texto":  "Esto solo es para ti. Nada de esto se compartió ni se compartirá con nadie más.",
+                                  "modalTitulo":  "La contraseña",
+                                  "pista":  "Cuatro números que suman la historia de un día muy importante para mí… (pista: empieza por el día en que empecé a ser la persona más feliz del año)",
+                                  "video":  "/api/video"
+                              }
+              },
+    "ui":  {
+               "lockSmall":  "Algo esta llegando hacia ti…",
+               "lockTitle":  "Aún no, {nombre} espera un poco más",
+               "lockText":  "Esta cajita se está terminando de llenar con cosaitas tuyas. Vuelve el día de tu cumpleaños JSJS.",
+               "boxLabel":  "Para {nombre}",
+               "boxHint":  "Toca la caja para abrirla",
+               "finalSub":  "Hoy cumples {edad}. No pude estar ahí para darte un abrazo, pero esta cajita espero que quede contigo para siempre, como yo.",
+               "finalQuote":  "«La distancia no nos quita nada de lo que importa: sigue siendo nuestro el poder hablar y estar juntos cada mañana al despertar y cada respiro al dormir»",
+               "finalButton":  "Volver a abrir la cajita",
+               "velasDone":  "Todas las velas estan apagadas pero aún queda un deseo pendiente: Yo.",
+               "audioEmpty":  "(aquí hay un pedazo de mi voz, echo solo para ti)",
+               "memoriesEmpty":  "Aquí irán nuestras fotos (la distancia no puede tocar nuestros recuerdos)",
+               "globosDone":  "Ojala todos tus deseos se hagan realidad corazón",
+               "sobresDone":  "Esos fueron todos por el momento",
+               "playlistEmpty":  "Elige una canción…",
+               "constelInstr":  "Toca las estrellas en orden para descubrir una solpresa.",
+               "constelDone":  "Tu nombre queda marcado en el cielo para siempre",
+               "wishHint":  "toca en cualquier lado para cerrar"
+           }
+}

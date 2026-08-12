@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Para Ren</title>
+  <meta name="description" content="Algo especial, hecho con amor para tu día.">
+  <meta property="og:title" content="Para Ren 🎀">
+  <meta property="og:description" content="Una cajita que viajó la distancia para llegar a ti.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Dancing+Script:wght@600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="sky" aria-hidden="true">
+    <div class="moon"></div>
+    <div class="mist mist-1"></div>
+    <div class="mist mist-2"></div>
+    <div id="sparkle-layer"></div>
+  </div>
+
+  <div id="float-layer" aria-hidden="true"></div>
+
+  <div id="theme-layer" aria-hidden="true">
+    <div class="wash" id="wash"></div>
+    <div class="spotlight" id="spotlight" aria-hidden="true"></div>
+    <div id="char-layer"></div>
+  </div>
+
+  <div id="burst-layer" aria-hidden="true"></div>
+
+  <!-- 🔒 PANTALLA CANDADO -->
+  <section id="screen-lock" class="screen active">
+    <div class="lock-inner">
+      <p class="lock-small" id="lock-small">Algo viaja hacia ti…</p>
+      <h1 id="lock-title" class="lock-title">Todavía no 🎀</h1>
+      <p class="lock-text" id="lock-text">Esta cajita se está terminando de llenar. Vuelve pronto.</p>
+      <div class="countdown" id="countdown"></div>
+      <div class="sealed-box" aria-hidden="true">
+        <div class="sealed-lid"></div>
+        <div class="sealed-body"></div>
+        <div class="sealed-ribbon-v"></div>
+        <div class="sealed-ribbon-h"></div>
+        <div class="sealed-bow"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 🎁 PANTALLA CAJA -->
+  <section id="screen-box" class="screen">
+    <div class="box-scene">
+      <p class="box-label" id="box-label">Para <span id="box-name">Ren</span></p>
+      <div class="gift" id="gift" role="button" tabindex="0" aria-label="Abrir regalo">
+        <div class="gift-lid"></div>
+        <div class="gift-body"></div>
+        <div class="box-glow" aria-hidden="true"></div>
+        <div class="gift-ribbon-v"></div>
+        <div class="gift-ribbon-h"></div>
+        <div class="gift-bow bow-l"></div>
+        <div class="gift-bow bow-r"></div>
+        <div class="gift-bow-knot"></div>
+        <span class="gift-spark s1" aria-hidden="true"></span>
+        <span class="gift-spark s2" aria-hidden="true"></span>
+        <span class="gift-spark s3" aria-hidden="true"></span>
+        <span class="gift-spark s4" aria-hidden="true"></span>
+      </div>
+      <p class="box-hint" id="box-hint">Toca la caja para abrirla</p>
+    </div>
+  </section>
+
+  <!-- 📜 CAPAS -->
+  <section id="screen-layer" class="screen">
+    <div class="layer-content" id="layer-content"></div>
+    <button class="next-btn" id="btn-next" hidden>Continuar →</button>
+  </section>
+
+  <audio id="player" preload="none"></audio>
+  <div class="music-dock" id="music-dock" aria-label="Reproductor musical">
+    <button class="music-dock-handle" id="music-dock-handle" type="button" aria-expanded="false" aria-controls="music-dock-panel">
+      <span class="music-dock-line" aria-hidden="true"></span>
+    </button>
+    <div class="music-dock-panel" id="music-dock-panel">
+      <img class="music-dock-cover" id="music-dock-cover" src="content/media/musica/player-placeholder.jpg" alt="Portada de la canción">
+      <div class="music-dock-info"><b id="music-dock-title">Elige una canción…</b><span id="music-dock-artist"></span></div>
+      <button class="music-dock-btn" id="music-dock-prev" type="button" aria-label="Canción anterior">‹</button>
+      <button class="music-dock-btn music-dock-main" id="music-dock-toggle" type="button" aria-label="Pausar">▶</button>
+      <button class="music-dock-btn" id="music-dock-next" type="button" aria-label="Siguiente canción">›</button>
+    </div>
+  </div>
+  <canvas id="confetti" aria-hidden="true"></canvas>
+
+  <script src="vendor/anime.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
